@@ -1,4 +1,4 @@
-### Hi there 👋 , I am Anshuman Shukla
+### Hi there 👋 , I am Anshuman Shukla from India
 
 - 🔭 I’m currently working on **Electron** 
 - 🌱 I’m currently learning **Linux,Javascript,React**
