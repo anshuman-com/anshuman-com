@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@head_anshuman" target="blank"><img src="https://img.shields.io/twitter/follow/@head_anshuman?logo=twitter&style=for-the-badge" alt="@head_anshuman" /></a> </p>
 
-- 🔭 I’m currently working on [Displaying of Plugin Health Scores](https://www.jenkins.io/projects/gsoc/2023/project-ideas/displaying_plugin_health_scores/)
+
 
 - 🌱 I’m currently learning **React , Node**
 
