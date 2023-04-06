@@ -18,7 +18,6 @@
 - ⚡ Fun fact - **I like to lie Often**
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman-com&count_private=true)
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman-com&" alt="anshuman-com" /></p>
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-com)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
