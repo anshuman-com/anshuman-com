@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshuman Shukla</h1>
-<h3 align="center">A passionate Frontend & Langchain Developer from India</h3>
+<h3 align="center">A passionate FullStack & Langchain Developer from India</h3>
 
 ## 🚀 About Me:
 - 🌱 I’m currently a 3rd-year B.Tech student in Computer Science and Engineering.
