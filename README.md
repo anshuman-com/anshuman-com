@@ -4,7 +4,7 @@
 ## 🚀 About Me:
 - 🌱 I’m currently a 3rd-year B.Tech student in Computer Science and Engineering.
 - 👨‍💻 I have worked extensively with **JavaScript**, **ReactJS**, **CSS, Aceternity** and **Langchain** on various projects.
-- 📈 I’m currently focused on projects: **LegalEase**, **Summariser**, and **Building Agents and finetuning Modles**.
+- 📈 I’m currently focused on projects: **LegalEase**, **Summariser**, and **Building Agents and finetuning LLM Modles**.
 - 🛠️ Currently learning  **C++**, and improving my skills in **Data Structures and Algorithms**.
 - 🎨 I freelance as a **Website Developer**, **UI/UX Using Figma**, **Chatbot Developer** and you can even get in touch for a ***RAG-APP Development***
 
