@@ -2,7 +2,6 @@
 <h3 align="center">A passionate FullStack & Langchain Developer from India</h3>
 
 ## 🚀 About Me:
-- 🌱 I’m currently a 3rd-year B.Tech student in Computer Science and Engineering.
 - 👨‍💻 I have worked extensively with **JavaScript**, **ReactJS**, **CSS, Aceternity** and **Langchain** on various projects.
 - 📈 I’m currently focused on projects: **LegalEase**, **Summariser**, and **Building Agents and finetuning LLM Modles**.
 - 🛠️ Currently learning  **C++**, and improving my skills in **Data Structures and Algorithms**.
