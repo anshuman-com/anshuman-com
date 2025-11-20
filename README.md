@@ -3,9 +3,9 @@
 
 ## 🚀 About Me:
 - 👨‍💻 I have worked extensively with **JavaScript**, **ReactJS**, **CSS, Aceternity** and **Langchain** on various projects.
-- 📈 I’m currently focused on projects: **LegalEase**, **Summariser**, and **Building Agents and finetuning LLM Modles**.
+- 📈 I’m currently focused on **Building Agents and finetuning LLM Modles**.
 - 🛠️ Currently learning  **C++**, and improving my skills in **Data Structures and Algorithms**.
-- 🎨 I freelance as a **Website Developer**, **UI/UX Using Figma**, **Chatbot Developer** and you can even get in touch for a ***RAG-APP Development***
+- 🎨 I freelance as a **Full stack Web App Solutions**, **AI solutions** and ***Mobile App Solutions***
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-anshumanshukla-/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anshuman_twts)
