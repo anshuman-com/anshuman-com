@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack & Langchain Developer from India</h3>
 
 ## 🚀 About Me:
-- 👨‍💻 I have worked extensively with **JavaScript**, **ReactJS**, **CSS, Aceternity** and **Langchain** on various projects.
+- 👨‍💻 I have worked extensively with **JavaScript**, **ReactJS**, **NextJS**,  **NestJS**, **CSS**, **Langchain**, **Python** on various projects.
 - 📈 I’m currently focused on **Building Agents and finetuning LLM Modles**.
 - 🛠️ Currently learning  **C++**, and improving my skills in **Data Structures and Algorithms**.
 - 🎨 I freelance as a **Full stack Web App Solutions**, **AI solutions** and ***Mobile App Solutions***
