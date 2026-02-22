@@ -24,33 +24,20 @@
 
 </div>
 
----
-
-## `$ cat about_me.txt`
-
-```yaml
-name       : Anshuman Shukla
-role       : Full Stack & AI Engineer
-company    : Treiva AI 🤖
-building   : supportly.dev 🚀
-location   : India 🇮🇳
-hobbies    : Coding · Skating (Top 3 🛹) · Building in public
-status     : Open to Freelance & Collabs 
 ```
-
----
-
-## ⚡ What I'm Shipping
-
-```bash
-$ ls -la current_work/
+                                 me:
+   █████╗ ███████╗               ───────────────────────────────
+  ██╔══██╗██╔════╝               OS       : Builder OS v2026
+  ███████║███████╗               Role     : Full Stack & AI Engineer
+  ██╔══██║╚════██║               Company  : Treiva AI 
+  ██║  ██║███████║               Shipping : supportly.dev 
+  ╚═╝  ╚═╝╚══════╝               Location : India 🇮🇳
+                                  Uptime   : 21 yrs, no crashes yet
+                                  Hobbies  : Coding · Skating 🛹 · Building
+                                  Status   : Open to Freelance & Collabs 
+                                 ───────────────────────────────
+                                  ██ ██ ██ ██ ██ ██ ██ ██ ██ ██
 ```
-```
-🔨  supportly.dev      → AI customer support platform
-🧠  LangGraph agents   → Multi-agent systems @TreivaAI  
-```
-
----
 
 ## 🛠️ Tech Stack
 
